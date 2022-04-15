@@ -2,10 +2,11 @@
 namespace kelsee;
 class Test
 {
-    public function test(){
-        echo '我是kelsee';
+    public function kelsee(){
+        return 'my name is 开浩通';
     }
-    public function test1(){
-        echo '我是kelsee1';
+    public function baobao(){
+        $kelsee = $this->kelsee();
+        echo $kelsee.', 邵长慧 is my 宝宝';
     }
 }
