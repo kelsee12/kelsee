@@ -2,7 +2,7 @@
     "name": "kelsee/blog",
     "description": "kelsee shop",
     "type": "1",
-    "license": "Apache",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Kelsee\\Blog\\": "src/"
