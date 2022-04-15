@@ -1,0 +1,24 @@
+{
+    "name": "kelsee/blog",
+    "description": "kelsee shop",
+    "type": "1",
+    "license": "Apache",
+    "autoload": {
+        "psr-4": {
+            "Kelsee\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "开浩通",
+            "email": "kai666123789@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "kelsee\\": "src/kelsee"
+        }
+    }
+}
